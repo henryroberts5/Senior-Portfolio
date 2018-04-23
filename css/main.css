@@ -1,1 +1,72 @@
+header {
+	background-color: blue;
+	font-size: 70px;
+	color: white;
 
+}
+h1 {
+	text-align: center;
+}
+body {
+	background-color: lightblue;
+}
+.wrap {
+	width: 100%
+}
+.left {
+	float: left;
+	border-right: 0;
+	background-color: green;
+	width: 400px;
+	position: relative;
+	top: -472px;
+	padding: 20px; 
+}
+.right {
+	float: right;
+	background-color: green;
+	width: 400px;
+	position: relative;
+	top: -472px;
+	left: -75px;
+	padding: 0 0 4px 0;
+}
+.center {
+	margin: 0 auto;
+	background-color: lightblue;
+	width: 400px;
+	position: relative;
+	top: 150px;
+	left: -18px;
+	background-color: blue; 
+	padding: 20px;
+}
+.list {
+	text-align: center;
+	position: relative;
+	left: -490px;
+	top: -100px;
+}
+h2 {
+	position: relative;
+	left: -357px;
+	font-size: 30px;
+	top: -110px;
+}
+.sites {
+	text-align: center;
+	position: relative;
+	left: 400px;
+	top: -315px;
+}
+h3 {
+	position: relative;
+	left: 507px;
+	top: -318px;
+	font-size: 30px;
+}
+img {
+	position: relative;
+	left: 545px;
+	top: 70px;
+}
